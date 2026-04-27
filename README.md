@@ -1,0 +1,1 @@
+This project focuses on analyzing hotel booking data to uncover meaningful insights about customer behavior, booking patterns, and cancellation trends. The goal is to derive actionable insights that can help improve business decisions, optimize pricing strategies, and reduce booking cancellations.
